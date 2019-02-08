@@ -48,7 +48,7 @@ h6{
 }
 
 .leng{
-  width:150px;
+  width:inherit;
 }
 
 .custom-nav li a{
@@ -701,7 +701,7 @@ transition: background-color 0.5s ease-in-out;
 
 .counter{
   display: block;
-  font-size: 50px;
+  font-size: inherit;
   font-weight: bold;
   line-height: 1.1;
   margin-bottom: 20px;
@@ -711,7 +711,7 @@ transition: background-color 0.5s ease-in-out;
 .counter-text{
   display: block;
   color: #727272;
-  font-size: 18px;
+  font-size: inherit;
   text-transform: uppercase;
 }
 
@@ -857,7 +857,7 @@ transition: background-color 0.5s ease-in-out;
 .blog-area{
   display: inline;
   float: left;
-  margin-top: 50px;
+  margin-top: 10px;
   width: 100%;
 }
 
