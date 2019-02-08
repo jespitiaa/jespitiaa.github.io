@@ -39,6 +39,11 @@ h6{
   font-family: "Roboto",sans-serif;
 }
 
+.blog-area h3{
+  font-size: 24px;
+  font-weight: 500;
+}
+
 .parrafo{
   text-align: justify;
 }
@@ -856,6 +861,7 @@ transition: background-color 0.5s ease-in-out;
 
 .blog-area{
   display: inline;
+  text-align: center;
   float: left;
   margin-top: 10px;
   width: 100%;
